@@ -10053,8 +10053,8 @@ p.lead {
     left: 0;
     display: flex;
     flex-direction: column;
-    width: 30rem;
-    height: 150vh;
+    width: 17rem;
+    height: 100vh;
   }
   #sideNav .navbar-brand {
     display: flex;
