@@ -234,19 +234,21 @@
             </section>
             
             <section>
-                <div class="contact-me">Contact Me</div>
-                <div class="contact-item">Your First Name:</div>
-                <input class="contact-box" type="text" name="firstName" placeholder="John">
-                <div class="contact-item">Your Last Name:</div>
-                <input class="contact-box" type="text" name="lastName" placeholder="Smith">
-                <div class="contact-item">Your Email Address:</div>
-                <input class="contact-box" type="text" name="email" placeholder="john@email.com">
-                <div class="contact-item">Your Phone Number:</div>
-                <input class="contact-box" type="text" name="number" placeholder="(732)555-0123">
-                <div class="contact-reason">Reason For Contact:</div>
-                <input class="contact-reason-box" type="text" name="contactReason">
-            </section>
+           
+  <h2>Send e-mail to someone@example.com:</h2>
 
+<form action="mailto:someone@example.com" method="post" enctype="text/plain">
+Name:<br>
+<input type="text" name="name"><br>
+E-mail:<br>
+<input type="text" name="mail"><br>
+Comment:<br>
+<input type="text" name="comment" size="50"><br><br>
+<input type="submit" value="Send">
+<input type="reset" value="Reset">
+</form>
+</section>
+            
 <button class="button" type="submit">SEND</button>
         </div>
         <!-- Bootstrap core JS-->
