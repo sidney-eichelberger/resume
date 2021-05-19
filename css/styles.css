@@ -10063,8 +10063,8 @@ p.lead {
     padding: 0.5rem;
   }
   #sideNav .navbar-brand .img-profile {
-    max-width: 15rem;
-    max-height: 15rem;
+    width: 12rem;
+    height: 12rem;
     border: 0.5rem solid #FC3D21;
   }
   #sideNav .navbar-collapse {
