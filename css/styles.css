@@ -10065,7 +10065,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 10rem;
     max-height: 10rem;
-    border: 0.5rem solid rgba(255, 153, 0, 0.2);
+    border: 0.5rem solid rgba(255, 153, 0, 0.89);
   }
   #sideNav .navbar-collapse {
     display: flex;
