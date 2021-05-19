@@ -10065,7 +10065,7 @@ p.lead {
   #sideNav .navbar-brand .img-profile {
     max-width: 15rem;
     max-height: 15rem;
-    border: 0.5rem solid rgba(255, 153, 0, 0.89);
+    border: 0.5rem solid #FC3D21;
   }
   #sideNav .navbar-collapse {
     display: flex;
