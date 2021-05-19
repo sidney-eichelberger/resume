@@ -1048,7 +1048,7 @@ pre code {
 @media (min-width: 768px) {
   .col-md {
     flex-basis: 0;
-    flex-grow: 1;
+    flex-grow: 3;
     min-width: 0;
     max-width: 100%;
   }
@@ -10128,7 +10128,7 @@ section.resume-section .resume-section-content {
 }
 @media (min-width: 992px) {
   section.resume-section {
-    padding-left: 30rem;
+    padding-left: 3rem;
     padding-right: 3rem;
     padding-top: 5rem;
     padding-bottom: 5rem;
